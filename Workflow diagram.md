@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Final%20Files/Logo.png" alt="7Lenders Logo" width="full"/>
+  <img src="https://i.ibb.co/RpK337XQ/Logo.png" alt="7Lenders Logo" width="100%"/>
 </p>
 
 ## Workflow diagram, followed by test scenarios, and finally the deployment instructions for the Soroban smart contract.
