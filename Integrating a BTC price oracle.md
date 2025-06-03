@@ -1,3 +1,8 @@
+<p align="center">
+<img src="Final%20Files/Logo.png" alt="7Lenders Logo" width="full"/>
+</p>
+
+
 Integrating a BTC price oracle into 7lenders Soroban smart contract is essential for accurate Loan-to-Value (LTV) monitoring and risk management. Below is a comprehensive documentation on setting up and integrate an oracle for BTC price feeds within the Soroban ecosystem.
 
 ---
