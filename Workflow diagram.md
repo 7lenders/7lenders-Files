@@ -48,7 +48,7 @@
 ## Deployment Instructions
 
 ### Prerequisites
-Ensure the following are installed on your system:
+We ensure the following are installed on the system:
 - **Rust**  
 - **Soroban CLI**  
 - **Stellar Development Environment**
@@ -80,9 +80,9 @@ crate-type = ["cdylib", "rlib"]
 
 ### Step 3: Implement the Contract Logic
 
-Write your contract logic in `src/lib.rs`.
+Write the contract logic in `src/lib.rs`.
 
-> Use the Soroban contract code you have previously generated or written.
+> Use the Soroban contract code we have previously generated or written.
 
 ---
 
