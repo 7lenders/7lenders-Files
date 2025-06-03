@@ -101,6 +101,4 @@ Unlike traditional DeFi lending protocols (e.g., Aave, Compound), which only sup
 
 ---
 
-## **📜 License**  
-MIT © 2024 7Lenders  
 
