@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Final%20Files/Logo.png" alt="7Lenders Logo" width="full"/>
+  <img src="https://i.ibb.co/RpK337XQ/Logo.png" alt="7Lenders Logo" width="100%"/>
 </p>
 
 # **7Lenders: Peer-to-Peer (P2P) Crypto-Backed Fiat Lending Platform**  
