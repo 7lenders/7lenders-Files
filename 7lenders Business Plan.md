@@ -1,5 +1,8 @@
-# **7Lenders: Peer-to-Peer (P2P) Crypto-Backed Fiat Lending Platform**  
+<p align="center">
+<img src="Final%20Files/Logo.png" alt="7Lenders Logo" width="full"/>
+</p>
 
+# **7Lenders: Peer-to-Peer (P2P) Crypto-Backed Fiat Lending Platform**  
 
 ## **📌 Introduction**  
 
