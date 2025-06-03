@@ -68,7 +68,7 @@ The Relink Protocol offers a trustless method to integrate Chainlink's decentral
 
 ## 🧪 Testing Scenarios
 
-To ensure the reliability of the oracle integration, consider the following test cases:
+To ensure the reliability of the oracle integration, we consider the following test cases:
 
 * **Price Feed Accuracy:**
 
